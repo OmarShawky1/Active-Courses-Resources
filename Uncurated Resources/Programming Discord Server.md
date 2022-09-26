@@ -1,0 +1,28 @@
+1. https://progdisc.club/resources/
+2. Note: This is the suggestions based on people using the server... nothing more.
+3. Contents:
+	1. ##Bash 
+	2. #C 
+	3. #CSharp 
+	4. #CPP 
+	5. #CSS 
+	6. #Java 
+	7. #Javascript 
+	8. #PHP 
+	9. #Python 
+	10. #Haskell 
+	11. #Go 
+	12. #Ruby 
+	13. #Rust 
+	14. #SQL 
+	15. #Algorithms_And_Data_Structures 
+	16. #UIUX_Design 
+	17. #Git 
+	18. #Interview 
+	19. #Machine_Learning 
+	20. #Computer_Network 
+	21. #Math 
+	22. #Mobile_Development
+	23. #Open_Source
+	24. #Software_Architecture 
+	25. #Software_Testing 

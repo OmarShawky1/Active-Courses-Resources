@@ -1,0 +1,3 @@
+1. https://github.com/FortAwesome/Font-Awesome
+2. Description:
+	1. Whether you are developing Web/Mobile applications, preparing presentations, or drawing Software Engineering diagrams, you often need a set of free icons. Font Awesome is the most famous icon Toolkit. You can use the Font Awesome icons as a package in your popular JavaScript framework. It is also possible to use it in PowerPoint or designing tools like Draw.io. Moreover, these icons are free.

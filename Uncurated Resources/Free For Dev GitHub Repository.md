@@ -1,0 +1,3 @@
+1. https://github.com/ripienaar/free-for-dev
+2. Description:
+	1. We have learned the lesson that nothing comes for free. So, we almost took it for granted that if we want to use SaaS/PaaS/IaaS offering, then we must pay. But this is not always true. Many SaaS/PaaS/IaaS providers offer a free tier for developers. This excellent GitHub repository lists all those free offerings for the developers in one place.

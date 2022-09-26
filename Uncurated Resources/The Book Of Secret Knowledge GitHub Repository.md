@@ -1,0 +1,3 @@
+1. https://github.com/trimstray/the-book-of-secret-knowledge
+2. Description:
+	1. As a developer, we all use a set of tools, knowledge bytes, scripts to make our life easier. This GitHub repository contains an extensive list of cli/web tools, cheat sheets, manuals, blogs, hacks, and one-liners to perform our daily tasks efficiently. Whether you are a developer/tester/DevOps engineer or a beginner/experience pro, you will find a lot of helpful knowledge bytes by following this GitHub repository.

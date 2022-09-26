@@ -1,0 +1,6 @@
+.obsidian/
+#workspace
+#appearance.json
+
+#Prevent displaying photos in Google Photos
+.nomedia
