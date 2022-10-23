@@ -9,9 +9,9 @@
 
 # Contents
 * [Summary](#Summary)
-* [How to start?](<#How to start?>)
-* [How to contribute?](<#How to contribute?>)
-* [Frequent Questions](<#Frequent Questions>)
+* [How to start?](<#How-to-start>)
+* [How to contribute?](<#How-to-contribute>)
+* [Frequent Questions](<#Frequent-Questions>)
 
 
 # Summary
@@ -47,7 +47,7 @@ Briefly, This repository blends MOOCs benefits & amends to their concepts by a l
 	2. Check for friend's review/Comparisons or reviews on courses website.
 	3. Choose your main learning resource/course. It must be "Interactive", have a "good rating/reputation" (E.g., Check where Alumni work currently).
 	4. (Optional) chose supporting resources; They don't need to be Interactive and it will be helpful if they are reputable. It will be great if they have an active community like FCC.
-5. Check [How to contribute?](<#How to contribute?>)/Curate Resources section for the remaining steps.
+5. Check [How to contribute?](<#How-to-contribute>)/Curate Resources section for the remaining steps.
 
 
 # How to contribute?
