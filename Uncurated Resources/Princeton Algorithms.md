@@ -2,3 +2,4 @@
 2. Links:
 	1. https://www.coursera.org/learn/algorithms-part1
 	2. https://www.coursera.org/learn/algorithms-part2
+	3. [Solution to all book problems](https://github.com/reneargento/algorithms-sedgewick-wayne).
